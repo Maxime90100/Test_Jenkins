@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeSecret/CodeSecret.iml" filepath="$PROJECT_DIR$/CodeSecret/CodeSecret.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PurseCodeSecretIntegrationProject/PurseCodeSecretIntegrationProject.iml" filepath="$PROJECT_DIR$/PurseCodeSecretIntegrationProject/PurseCodeSecretIntegrationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PurseProject/PurseProject.iml" filepath="$PROJECT_DIR$/PurseProject/PurseProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qdev.iml" filepath="$PROJECT_DIR$/.idea/qdev.iml" />
+    </modules>
+  </component>
+</project>
